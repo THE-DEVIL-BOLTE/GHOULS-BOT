@@ -1,7 +1,7 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "name": "𝚃𝙷𝙴 GHOULS𝙱𝙾𝚃",
+  "description": "The GHOULSBot made by @G0DF4TH3R_0P_B0LT3_J44N special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @OPGHOULS_BOT_SUPPORT",
+  "logo": "https://telegra.ph/file/4449573baa8fccf28b105.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/THE-DEVIL-BOLTE/GHOULS-BOT",
+  "website": "https://github.com/THE-DEVIL-BOLTE/GHOULS-BOT",
+  "success_url": "https://t.me/OPGHOULS_BOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,28 +23,28 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @G0DF4TH3R_0P_B0LT3_J44N. By default it is GHOULS User",
+      "value": "@OPGHOULS_BOT_SUPPORT",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "description": "Set Custom Alive Message When entering .GHOULS Command.",
+      "value": "😈OPGHOULS IS ALIVE😈",
       "required": false
     },
-    "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+    "ALIVE_PIC": {https://telegra.ph/file/4449573baa8fccf28b105.jpg
+      "description": "Put here any telegraph media link for alive pic in .GHOULS command.",
+      "value": "",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO GHOULSBOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/4449573baa8fccf28b105.jpg,
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -136,7 +136,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the username of your bot",
-      "value": "@MAFIA_PUBLIC_bot"
+      "value": "@OP_GHOULS_BOT_BOLTR"
     },
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID from https://api.openweathermap.org/data/2.5/weather",
