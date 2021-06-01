@@ -2,7 +2,7 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print("")
-print("""Welcome To MafiaBot String Session\nGenerator By @H1M4N5HU0P\n\n""")
+print("""Welcome To GHOULSBot String Session\nGenerator By @G0DF4TH3R_0P_B0LT3_J44N\n\n""")
 print("""Special Thanks To My Buddy Respective HellBot\nOwner @Kraken_The_BadASS\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
@@ -19,7 +19,7 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @MafiaBot_Support For Any Help!\n\n",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n {session} \n\n And Visit @OPGHOULS_BOT_SUPPORT For Any Help!\n\n",
             )
 
             print(
