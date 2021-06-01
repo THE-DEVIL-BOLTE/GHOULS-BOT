@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/THE-DEVIL-BOLTE/GHOULS-BOT/",
-  "website": "https://github.com/THE-DEVIL-BOLTE/GHOULS-BOT/",
+  "repository": "https://github.com/THE-DEVIL-BOLTE/GHOULS-BOT",
+  "website": "https://github.com/THE-DEVIL-BOLTE/GHOULS-BOT",
   "success_url": "https://t.me/OPGHOULS_BOT_SUPPORT",
   "env": {
     "ENV": {
